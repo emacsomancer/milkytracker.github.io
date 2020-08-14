@@ -27,6 +27,7 @@ Since v1.0.0 the MilkyTracker binaries and source code are available for downloa
   * [ROSA][dist-rosa]
   * [SUSE][dist-suse]
   * [Ubuntu][dist-ubuntu] (v0.90.85 @ [Launchpad][dist-launchpad])
+  * [Void Linux][dist-void] (aarch64(-musl), armv6l(-musl), armv7l(-musl), i686, x86_64(-musl))
 
 #### Old Binaries (v0.90.86):
   * [Mac OS X Universal][current-mac]
@@ -136,6 +137,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 [dist-suse]: http://packman.links2linux.de/package/MilkyTracker
 [dist-ubuntu]: http://packages.ubuntu.com/milkytracker
 [dist-launchpad]: https://launchpad.net/~philip5/+archive/extra
+[dist-void]: https://github.com/void-linux/void-packages/tree/master/srcpkgs/milkytracker
 
 [current-src-tar-bz2]: {% link files/milkytracker-0.90.86.tar.bz2 %}
 [current-src-tar-gz]: {% link files/milkytracker-0.90.86.tar.gz %}
